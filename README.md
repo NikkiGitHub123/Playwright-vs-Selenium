@@ -13,3 +13,5 @@ It was observed that, while Selenium took 29 sec to run the test, Playwright too
 
 This is to prove that,
 Playwright is well-suited for web applications requiring speed and reliability, while Selenium is a good choice for projects needing variety of browser compatibility and integration with other systems. 
+
+_Disclaimer: Opinions expressed here are solely my own and do not express the views or opinions of my employer._
